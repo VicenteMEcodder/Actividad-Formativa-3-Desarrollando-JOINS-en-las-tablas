@@ -6,6 +6,7 @@
 
 **Estudiante:** 
 Vicente Milla Espinoza
+
 Sergio Sandoval Valenzuela  
 **Carrera:** Analista Programador  
 **Sede:** Santiago Online  

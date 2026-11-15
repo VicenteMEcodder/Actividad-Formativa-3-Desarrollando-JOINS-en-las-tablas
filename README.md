@@ -4,9 +4,10 @@
 
 # 🧠 Consulta de Bases de Datos
 
-**Estudiante:** 
+**Estudiantes:** 
 
 Vicente Milla Espinoza
+
 Sergio Sandoval Valenzuela
 
 **Carrera:** Analista Programador  

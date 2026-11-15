@@ -5,9 +5,10 @@
 # 🧠 Consulta de Bases de Datos
 
 **Estudiante:** 
-Vicente Milla Espinoza
 
-Sergio Sandoval Valenzuela  
+Vicente Milla Espinoza
+Sergio Sandoval Valenzuela
+
 **Carrera:** Analista Programador  
 **Sede:** Santiago Online  
 **Profesor:** Eithel González Rojas  

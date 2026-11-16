@@ -36,7 +36,7 @@ Construir consultas SQL que permitan relacionar información de múltiples tabla
 
 ## 📂 Archivos Semana 4
 
-- `Exp2_S4_Grupo_11.SQL` – Script con las tres consultas desarrolladas.
+- `PRY2205.semana_4.sql` – Script con las tres consultas desarrolladas.
 - `README.md` – Documentación de la actividad.
 
 ## 📊 Informes desarrollados
